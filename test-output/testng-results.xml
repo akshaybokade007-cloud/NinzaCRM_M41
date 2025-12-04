@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-12-03T11:15:21 IST" name="Suite" finished-at="2025-12-03T11:15:21 IST" duration-ms="75">
+    <groups>
+      <group name="Smoke">
+        <method signature="SampleTest.virat()[pri:0, instance:Demo1.SampleTest@59662a0b]" name="virat" class="Demo1.SampleTest"/>
+      </group> <!-- Smoke -->
+    </groups>
+    <test started-at="2025-12-03T11:15:21 IST" name="Test" finished-at="2025-12-03T11:15:21 IST" duration-ms="75">
+      <class name="Demo1.SampleTest">
+        <test-method signature="virat()[pri:0, instance:Demo1.SampleTest@59662a0b]" started-at="2025-12-03T11:15:21 IST" name="virat" finished-at="2025-12-03T11:15:21 IST" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- virat -->
+      </class> <!-- Demo1.SampleTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
